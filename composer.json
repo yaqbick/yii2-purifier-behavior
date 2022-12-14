@@ -1,14 +1,14 @@
 {
-    "name": "rokorolov/yii2-purifier-behavior",
+    "name": "yaqbick/yii2-purifier-behavior",
     "description": "Purifier provides an ability to clean up HTML from any harmful code.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","purifier","behavior"],
-    "homepage": "https://github.com/rokorolov/yii2-purifier-behavior",
+    "homepage": "https://github.com/yaqbick/yii2-purifier-behavior",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "rokorolov",
-            "email": "rokorolov@gmail.com"
+            "name": "yaqbick",
+            "email": "yaqbick@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rokorolov\\purifier\\": "src"
+            "yaqbick\\purifier\\": "src"
         }
     }
 }
